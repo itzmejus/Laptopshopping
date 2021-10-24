@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Laptopshopping/static/css/main.e8063f41.chunk.css",
+    "main.js": "/Laptopshopping/static/js/main.abac5cb8.chunk.js",
+    "main.js.map": "/Laptopshopping/static/js/main.abac5cb8.chunk.js.map",
+    "runtime-main.js": "/Laptopshopping/static/js/runtime-main.6c3f9473.js",
+    "runtime-main.js.map": "/Laptopshopping/static/js/runtime-main.6c3f9473.js.map",
+    "static/js/2.e58b270e.chunk.js": "/Laptopshopping/static/js/2.e58b270e.chunk.js",
+    "static/js/2.e58b270e.chunk.js.map": "/Laptopshopping/static/js/2.e58b270e.chunk.js.map",
+    "static/js/3.5ce2e379.chunk.js": "/Laptopshopping/static/js/3.5ce2e379.chunk.js",
+    "static/js/3.5ce2e379.chunk.js.map": "/Laptopshopping/static/js/3.5ce2e379.chunk.js.map",
+    "index.html": "/Laptopshopping/index.html",
+    "static/css/main.e8063f41.chunk.css.map": "/Laptopshopping/static/css/main.e8063f41.chunk.css.map",
+    "static/js/2.e58b270e.chunk.js.LICENSE.txt": "/Laptopshopping/static/js/2.e58b270e.chunk.js.LICENSE.txt",
+    "static/media/about_img.0cefc2af.png": "/Laptopshopping/static/media/about_img.0cefc2af.png",
+    "static/media/mane_img.8f42487e.jpg": "/Laptopshopping/static/media/mane_img.8f42487e.jpg",
+    "static/media/top_img.b239302f.png": "/Laptopshopping/static/media/top_img.b239302f.png",
+    "static/media/unknown.11cdbeba.jpg": "/Laptopshopping/static/media/unknown.11cdbeba.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c3f9473.js",
+    "static/js/2.e58b270e.chunk.js",
+    "static/css/main.e8063f41.chunk.css",
+    "static/js/main.abac5cb8.chunk.js"
+  ]
+}
